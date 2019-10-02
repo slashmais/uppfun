@@ -1,0 +1,13 @@
+description "upp ui utils (progress, name, dt, ...)\377";
+
+uses
+	CtrlLib,
+	utilfuncs;
+
+file
+	uppfun.h,
+	uppfun.cpp;
+
+mainconfig
+	"" = "GUI";
+
